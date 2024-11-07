@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>courses</title>
+</head>
+<body>
+    <h2>COURSES OFFERED</h2>
+    <P>BA</P>
+    <P>BA ENGISH HONS</P>
+    <P>BA ECONOMICS AND POLITICAL SCIENCE</P>
+    <P>BA HISTORY AND POLITICAL SCIENCE</P>
+    <P>B.COM HONS</P>
+    <P>B.SC ELECTRONICS HONS.</P>
+    <P>BMS</P>
+    <P>B.SC COMPUTER SCIENCE(HONS.)</P>
+    <P>B.SC PHYSICAL SCIENCE WITH COMPUTER SCIENCE</P>
+    <P>B.SC MATHEMATICS HONS</P>
+    <P>B.SC PHYSICS HONS</P>
+    <P>B.SC LIFE SCIENCE</P>
+    <P>B.SC PHYSICAL SCIENCE WITH CHEMISTRY</P>
+    <P>B.SC MATHEMATICS SCIENCE</P>
+    <P>B.SC BOTANY</P>
+    <P>B.SC CHEMISTRY HONS</P>
+    <P>B.SC ZOOLOGY HONS</P>
+</body>
+</html>
