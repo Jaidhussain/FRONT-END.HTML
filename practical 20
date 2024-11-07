@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>student activity</title>
+</head>
+<body>
+    <h1>Activity/Events/workshop</h1>
+    <p>SOCIETIES</p>
+    <details>
+        <li>Voice - Debating Society</li>
+        <li>Raaga- The Dance Society</li>
+        <li>Rhapsody (nee Rhythm)- The Music Society</li>
+        <li>Kalamkaar- Literary Society</li>
+        <li>Kalpavriksha- The Botanical Society</li>
+        <li>Sangyaan(Quiz Wing of Student Activity Board)</li>
+    </details>
+    <p>CLUBS</p>
+    <details>
+        <li>Eco- Club</li>
+        <li>Robotic Club</li>
+        <li>Adventure Club</li>
+        <li>MUN Club</li>
+        <li>Fin S Club</li>
+        <li>Photography Club</li>
+        <li>Yavanika- Dramatics Club</li>
+        <li>Data Analytics Club</li>
+    </details>
+    <p>MOE-IIC</p>
+    <p>Women Development Cell</p>
+    <p>Equal Opportunity Cell</p>
+    <p>NSS DDUC UNIT</p>
+    <p>SPIC MACAY DDUC chapter</p>
+    <p>Mentoring and Counselling</p>
+    <p>Ek Bharat Shreshtha Bharat</p>
+    <p>Sports</p>
+    <p>International Yoga Day</p>
+    <p>Gandhi Study Circle</p>
+    <p>Self Defence Course</p>
+    <p>Vivekanand Study Circle</p>
+    <p>Festival</p>
+    <details>
+        <li>Annual Cultural Festival - Kalrav</li>
+        <li>Founder's Day</li>
+        <li>Vande Mataram</li>
+        <li>Annual Day</li>
+    </details>
+</body>
+</html>
