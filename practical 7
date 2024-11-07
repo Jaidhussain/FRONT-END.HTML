@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><center><u>B.SC Physical science with computer(sc)</u></center></h1>
+    <h2><center>Time Table: sem (iii)</center></h2>
+    <table border="4" width="600" align="center">
+        <tr>
+            <th rowspan="3">Day</th>
+            <th colspan="3">Seminar</th>
+        </tr>
+        <tr>
+            <th colspan="2">schedule</th>
+            <th rowspan="2">topic</th>
+        </tr>
+        <tr>
+            <th>Begin</th>
+            <th>End</th>
+        </tr>
+        <tr>
+            <td rowspan="2"><center><b>Monday</b></center></td>
+            <td rowspan="2"><center>8:00am</center></td>
+            <td rowspan="2"><center>5:00am</center></td>
+            <td><center>DE</center></td>
+        </tr>
+        <tr>
+            <td><center>CSE</center></td>
+        </tr>
+        <tr>
+            <td rowspan="3"><center><b>Tuesday</b></center></td>
+            <td><center>8:00am</center></td>
+            <td><center>11:00am</center></td>
+            <td rowspan="2"><center>X path</center></td>
+        </tr>
+        <tr>
+            <td><center>11:00am</center></td>
+            <td><center>2:00pm</center></td>
+        </tr>
+        <tr>
+            <td><center>2:00pm</center></td>
+            <td><center>5:00pm</center></td>
+            <td><center>CSE transformation</center></td>
+        </tr>
+        <tr>
+            <td><b><center>Tuesday</center></b></td>
+            <td><center>8:00pm</center></td>
+            <td><center>12:00pm</center></td>
+            <td><center>CSE formating object</center></td>
+        </tr>
+    </table>
+</body>
+</html>
