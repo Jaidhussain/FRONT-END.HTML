@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--this is bold line tag-->
+    <b>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos, sapiente?</b>
+    <!--this is italics words tag-->
+    <i>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti nihil voluptatibus sint inventore dolorum iure quae placeat accusamus minima voluptates?</i>
+    <!--this is underline tag-->
+    <u>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</u>
+    <!--this is text color tag-->
+    <p style="color: rgba(14, 223, 45, 0.893);">Lorem ipsum dolor sit, amet consectetur adipisicing elit.Pariatur est reiciendis quas doloribus animi dolore dolores necessitatibus recusandae quae fugit.</p>
+    <!--this is headline tag-->
+    <h1>This is Jaid Hussain</h1>
+    <!--this is tittle tag-->
+    <p><abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+    <!--this is font size tag-->
+    <p style="font-size: x-large;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus saepe quaerat dolores iste, numquam neque.</p>
+    <!---this is background color tag-->
+    <p style="background-color: blue;">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa quas delectus laborum eligendi iure dolorum minus eaque consequatur. Recusandae a temporibus quisquam omnis, eaque quibusdam cupiditate debitis quia facilis asperiores.</p>
+    <!--this is paragrapgh tag-->
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+    <!--this is break tag-->
+    <br>Lorem ipsum dolor sit amet consectetur.
+    <!--this is horizontal line tag-->
+    <hr> adipisicing edit. <br><br><br>
+    <!--this is merquee text tag-->
+    <marquee behavior="text" direction="">THE END</marquee>
+
+
+
+</body>
+</html>
