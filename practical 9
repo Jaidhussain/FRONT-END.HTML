@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2><center>A test tabble with merged cells</center></h2>
+    <table border="4" align="center" width="400">
+        <tr>
+            <th rowspan="2"></th>
+            <th colspan="2"><center>Average</center></th>
+            <th rowspan="2"><center>Red eyes</center></th>
+        </tr>
+        <tr>
+            <th>Height</th>
+            <th>Weight</th>
+        </tr>
+        <tr>
+            <td><center><b>Males</b></center></td>
+            <td><center>1.9</center></td>
+            <td><center>0.003</center></td>
+            <td><center>40%</center></td>
+        </tr>
+        <tr>
+            <td><center><b>Female</b></center></td>
+            <td><center>1.7</center></td>
+            <td><center>0.002</center></td>
+            <td><center>43%</center></td>
+        </tr>
+
+    </table>
+</body>
+</html>
