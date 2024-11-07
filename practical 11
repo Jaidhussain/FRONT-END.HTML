@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>this is html solid and block doc</h2>
+    <!-- this is jaid hussain -->
+     <!-- ctrt+/ press comment -->
+    <p style="border: 2px solid rgb(16, 16, 211);">This is paragraph</p> <p>this is also a paragraph</p>
+    <span style="border: 2px solid rgb(81, 210, 17);">This is a paragraph</span> <span>this is also a paragraph</span>
+</body>
+</html>
