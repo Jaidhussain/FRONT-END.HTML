@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms</title>
+</head>
+<body>
+    <h2>This is the Html forms</h2>
+    <form action="backend.pnp">
+    <div><br>
+        Name:<input type="text" name="myname">
+    </div>
+    <div><br>
+        Email:<input type="text" name="myemail">
+    </div>
+    <div><br>
+        Date:<input type="date" name="mydate>
+    </div>
+    <div><br>
+        Roll no.:<input type="text" name="myrollno.">
+    </div>
+    <div><br>
+        Number:<input type="number" name="mynumber">
+    </div>
+    <div><br>
+        Gender:<br>male<input type="radio" name="mygender"><br>female<input type="radio" name="mygender"><br>Other<input type="radio" name="mygender">
+    </div>
+    <div><br>
+        are you eligible?:<input type="checkbox" name="myeligibility">
+    </div>
+</div>
+<div><br>
+    <label for="car">car:</label>
+    <select name="car" id="car:">
+        <option value="ferrari">ferrari</option>
+        <option value="bmw">bmw</option>
+        <option value="thar">thar</option>
+        <option value="mecudise">mercudise</option>
+    </select>
+    <div><br>
+        submit: <input type="submit"input=submit "submit now">
+        <input type="reset" name="reset now">
+    </div>
+
+    </form>
+</body>
+</html>
