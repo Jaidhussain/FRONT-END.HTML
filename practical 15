@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>menu</title>
+</head>
+<body>
+    <h3><center>Menu</center></h3>
+    <ul>
+        <li> <a href="faculty.html"  target="right">faculty</a></li>
+        <li><a href="courses.html" target="right">courses</a></li>
+        <li><a href="activities.html" target="right">student activity</a></li>
+        <li><a href="contact.html" target="right">contact us</a></li>
+    </ul>
+</body>
+</html>
