@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>faculty</title>
+</head>
+<body>
+    <h2>OUR FACULTY</h2>
+    <p>Dr.Ratnesh R. Saxena (Department of Mathematics)</p>
+    <p>Mrs.Sunita Nadir(Department of Mathematics</p>
+    <p>Dr.Virender Thukral (Department of Mathematics)</p>
+    <p>Dr.Shashi Saxena (Department of chemistry)</p>
+    <p>Dr.Ratna (Department of chemistry)</p>
+    <p>Dr.k.k. jha (Department of  chemistry)</p>
+    <p>Dr.Arpita Sharma (Department of computer science)</p>
+    <p>Dr.Rajni Bala (Department of computer science)</p>
+    <p>Dr.sujata Sinha (Department of computer science)</p>
+    <p>Dr.Varnika Bhatia (Department of BOTANY)</p>
+    <p>Dr.Sachidanand Tripathi (Department of BOTANY) </p>
+    <p>Dr.Rajkumari s. Devi (Department of BOTANY)</p>
+    <p>Dr.kapil Bohra (Department of chemistry)</p>
+    <p>Dr.chayannika singh (Department of chemistry)</p>
+    <p>Dr.sunny manohar (Department of chemistry</p>
+    <p>Dr. sunil kumar (Department of commerce)</p>
+    <p>Dr.Renu Aggarwal(Department of commerce)</p>
+    <p>Dr.Anand Saxena (Department of commerce)</p>
+</body>
+</html>
