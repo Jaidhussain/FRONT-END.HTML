@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2><center><b>Health chart</b></center></h2>
+    <table border="4" align="center" width="600">
+        <tr>
+            <th rowspan="2">States of Health</th>
+            <th colspan="2">Fasting Value</th>
+            <th>After eating</th>
+        </tr>
+        <tr>
+            <th>Minimum</th>
+            <th>Maximum</th>
+            <th>2 hours after eating</th>
+        </tr>
+        <tr>
+            <td><center><b>Healt</b></center></td>
+            <td><center>70</center></td>
+            <td><center>100</center></td>
+            <td><center>Less than 140</center></td>
+        </tr>
+        <tr>
+            <td><center><b>Pre-Diabetes</b></center></td>
+            <td><center>101</center></td>
+            <td><center>126</center></td>
+            <td><center>126 to 200</center></td>
+        </tr>
+        <tr>
+            <td><center><b>Diabetes</b></center></td>
+            <td><center>More than 126</center></td>
+            <td><center>N/A</center></td>
+            <td><center>More than 200</center></td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
