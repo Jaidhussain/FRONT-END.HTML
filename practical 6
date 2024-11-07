@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Html Table</h2>
+    <table border="5">
+        <th> Name </th>
+        <th> Height </th>
+        <th> Weight </th>
+        <th> Eye color </th>
+        <th>image</th>
+        <tr>
+            <td> jaid </td>
+            <td> 5'5" </td>
+            <td> 57 </td>
+            <td> brown </td>
+            <td><img src="broweye.jpg" height="100" alt="image reloading"></td>
+        </tr>
+        <tr>
+            <td> Danish </td>
+            <td> 5'6" </td>
+            <td> 60 </td>
+            <td> black </td>
+            <td><img src="blackeyes.jpg" height="100" alt="image reloading"></td>
+        </tr>
+        <tr>
+            <td> Hamid </td>
+            <td> 5'5" </td>
+            <td> 59 </td>
+            <td> blue </td>
+            <td><img src="blueye.jpg" height="100" width="180"></td>
+        </tr>
+        <tr>
+            <td> vishal </td>
+            <td> 5'4" </td>
+            <td> 52 </td>
+            <td> blue </td>
+            <td><img src="blueye.jpg" height="100" width="180"></td>
+        </tr>
+
+    </table>
+</body>
+</html>
