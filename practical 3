@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2><center><u>DEEN DAYAL UPADHAYA COLLEGE(UNIVERSITY OF DELHI)</u></center></h2> 
+    <h3><center>B.SC Physical Science With computers-sem(iii)</center></h3>
+    <p>Time Table for: class</p>   
+    <table border="2" align="center" width="800">
+    <tr>
+        <td></td>
+        <td><center>9 am-10 am</center></td>
+        <td><center>10 am-11 am</center></td>
+        <td><center>11 am-12 pm</center></td>
+        <td><center>12 pm-1 pm</center></td>
+        <td><center>1 pm-1:30 pm</center></td>
+        <td><center>1:30 pm-2:30 pm</center></td>
+        <td><center>2:30 pm-3:30 pm</center></td>
+        <td><center>3:30 pm- 4:30 pm</center></td>
+        <td><center>4:30 pm-5:30 pm</center></td>
+    </tr>
+    <tr>
+        <td><b><Center>MONDAY</Center></b></td>
+        <td><Center>D.E. <br>P.G. <br>401</Center></td>
+        <td><Center>D.E.(T) <br>P.G. <br>401</Center></td>
+        <td><Center>D.E.(T) <br>P.G. <br>401</Center></td>
+        <td><center></center></td>
+        <td rowspan="6"><Center>L <br>U <br>N <br>C <br>H <br><br>B <br>R <br>E <br>A <br>k</Center></td>
+        <td><Center>AEC <br>HINDI B <br>Hindi Guest</Center></td>
+        <td><Center>AEC <br>HINDI B <br>Hindi Guest</Center></td>
+        <td><Center>AEC <br>HINDI A/C/B <br>Hindi Guest</Center></td>
+        <td><Center>AEC <br>HINDI A/C/B <br>Hindi Guest</Center></td>
+    </tr>
+    <tr>
+        <td><b><center>TUESDAY</center></b></td>
+        <td colspan="2"><center>DSE-III:python for DH <br>CS-G3/SW <br> CS LAB 3(405)</center></td>
+        <td><center>DSE-III <br>CS-G3 <br>401</center></td>
+        <td><center></center></td>
+        <td><center>CSA <br>AS <br>401</center></td>
+        <td><center>PHY:H&T <br>NV <br>401</center></td>
+        <td><center>PHY:H&T <br>NV <br>401</center></td>
+        <td><center></center></td>
+    </tr>
+    <tr>
+        <td><b><center>WEDNESDAY</center></b></td>
+        <td><center></center></td>
+        <td><center></center></td>
+        <td colspan="2"><center>CSA <br>CS-G4/Anuja <br>CS-LAB 2(407)</center></td>
+        <td colspan="4"><center>SEC</center></td>
+    </tr>
+    <tr>
+        <td><b><center>THUESDAY</center></b></td>
+        <td colspan="4"><center>PHY:H&T <br>NV/PKJ <br>PHY LAB-105</center></td>
+        <td><center>D.E. <br>MATH G4 <br>401</center></td>
+        <td><center>D.E. <br>MATH G4 <br>401</center></td>
+        <td><center></center></td>
+        <td><center></center></td>
+    </tr>
+    <tr>
+        <td><b><center>FRIDAY</center></b></td>
+        <td><center></center></td>
+        <td><center></center></td>
+        <td><center>CSA <br>CS-G4 <br>401</center></td>
+        <td><center>CSA <br>CS-G4 <br>401</center></td>
+        <td colspan="2"><center>VAC-III</center></td>
+        <td><center>Mentor mentee</center></td>
+        <td><center></center></td>
+    </tr>
+    <tr>
+        <td><b><center>SATURDAY</center></b></td>
+        <td colspan="2"><center>VAC-III</center></td>
+        <td><center>DSE-III(PS)</center></td>
+        <td><center>DSE-III(PS)</center></td>
+        <td><center></center></td>
+        <td><center></center></td>
+        <td><center></center></td>
+        <td><center></center></td>
+    </tr>
+</table>
+</body>
+</htmld
