@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><center>STUDENT REGISTRATION FORM</center></h1>
+    <h3>FILL IN THIS FORM FOR REGISTRAION</h3>
+    <form action="form.js" method="get"></form>
+    <label for="name:"> FIRST NAME:</label>
+    <input type="text"><br><br>
+    <label for="name:">LAST NAME:</label>
+    <INPut type="text"></INPut><br><br>
+    <label for="FATHER'S NAME">FATHER'S NAME:</label>
+    <input type="text"><br><br>
+    <label for="MOTHER'S NAME">MOTHER'S NAME:</label>
+    <input type="text"><br><br>
+    <label for="Gender">Gender: </label>
+        <input type="radio" name="Gender" value="Male">
+        <label for="male"> male </label>
+        <input type="radio" name="Gender" value="Female">
+        <label for="female">Female </label>
+        <input type="radio" name="Gender" value="Other">
+        <label for="Other">Other <br><br></label>
+        <label for="Date of Birth">Date of Birth:</label>
+        <input type="date" name="date" value="date"><br><br>
+        <label for="text">E-mail : </label>
+        <input type="text"><br><br>
+        <label for="select">Courses:</label>
+        <select name="course" id="courses">
+            <option value="BA">BA</option>
+            <option value="BA English hons">BA English hons</option>
+            <option value="BA Economics and political science">BA Economics and political science</option>
+            <option value="BA History and political science">BA History and political science</option>
+            <option value="B.com hons">B.com hons</option>
+            <option value="B.sc Electronics Hons">B.sc Electronics Hons</option>
+            <option value="BMS">BMS</option>
+            <option value="B.SC computer science(hons)">B.SC computer science(hons)</option>
+            <option value="B.SC physical science with computer science">B.SC physical science with computer science</option>
+            <option value="B.SC MATHEMATICS HONS">B.SC MATHEMATICS HONS</option>
+            <OPTION value="B.SC PHYSICS HONS">B.SC PHYSICS HONS</OPTION>
+            <OPTIOn value="B.SC LIFE SCIENCE">B.SC LIFE SCIENCE</OPTIOn>
+            <OPTION value="B.SC PHYSICAL SCIENCE WITH CHEMISTRY">B.SC PHYSICAL SCIENCE WITH CHEMISTRY</OPTION>
+            <OPTIOn value="B.SC MATHEMATICS SCIENCE">B.SC MATHEMATICS SCIENCE</OPTIOn>
+            <OPTIon value="B.SC BOTANY">B.SC BOTANY</OPTIon>
+            <OPTIOn value="B.SC CHEMISTRY HONS">B.SC CHEMISTRY HONS</OPTIOn>
+            <OPTIOn value="B.SC ZOOLOGY HONS">B.SC ZOOLOGY HONS</OPTIOn>
+        </select><br><br>
+        <LAbel for="Number">contact num:</LAbel>
+        <input type="number" name="number" value="num"> <br><br>
+        <label for="submit"> submit:</label>
+        <input type="submit" name="submit" value="confirm">
+        <label for="reset">Reset</label>
+        <input type="reset" name="reset" value="clear"></Input>
+
+
+</body>
+</html>
