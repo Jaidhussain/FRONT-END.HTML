@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+</head>
+<body>
+    <h2>Welcome to DEEN DAYAL UPADHAYA COLLEGE</h2>
+    <P>Select a menu option to learn more.</P>
+    <img src="nirf rank.png" alt="nirf ranking" srcset="image reloading" width="500" length="200">
+</body>
+</html>
