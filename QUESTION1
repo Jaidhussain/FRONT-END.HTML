@@ -1,48 +1,43 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Student Registration Form</title>
-  <style>
-    body { font-family: Arial, sans-serif; padding: 20px; }
-    label { display: block; margin-top: 10px; }
-    input { padding: 5px; width: 250px; }
-    .error { color: red; font-size: 0.9em; }
-  </style>
-  <script src="pract2.js" defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 <body>
+    <H1 style="background-color: aquamarine;"><CEnter>STUDENT REGISTRAION FORM</CEnter></H1>
+    <H3>FILL IN THIS FORM FOR REGISTRATION</H3>
+    <form action="form.js" method="get"></form>
+    <!--TEXT BOX-->
+    <label for="name:">FIRST NAME:</label>
+    <input type="text"><BR></BR>
+    <label for="name:">LAST NAME:</label>
+    <input type="text"><br><br>
+    <label for="name:">FATHER'S NAME:</label>
+    <input type="text"><br><br>
+    <label for="name:">MOTHER'S NAME:</label>
+    <input type="text"><br><br>
+    <!--DROPDOWN BOX-->
+    <label for="select:">COURSE:</label>
+    <select name="course" id="courses">
+        <OPtion value="CHOOSE">select</OPtion>
+        <option value="BA">BA</option>
+        <OPtion value="BA TURKISH">BA TURKISH</OPtion>
+        <option value="BA JAPENESE">BA JAPANESE</option>
+    </select><BR></BR>
+    <!--OPTION/RADIO BUTTON-->
+    <LAbel for="Gender">GENDER:</LAbel>
+    <input type="radio" name="Gender" value="Male">
+    <LAbel for="MALE">MALE</LAbel>
+    <INput type="radio" name="GENDER" value="Female"></INput>
+    <LAbel for="Female">FEMALE</LAbel>
+    <input type="radio" name="Gender" value="tans-genger">
+    <label for="tans-genger">TRAN GENDER</label><br><br>
+    <!--CHECK BOXES-->
+    <LAbel for="Submit:">SUBMIT:</LAbel>
+    <input type="text">
 
-  <h2>Student Registration Form</h2>
-
-  <form id="registrationForm" onsubmit="return validateForm()">
-    <label>
-      Student ID:
-      <input type="text" id="studentId" placeholder="10-digit alphanumeric">
-      <span class="error" id="idError"></span>
-    </label>
-
-    <label>
-      Name:
-      <input type="text" id="studentName" placeholder="Alphabetical only">
-      <span class="error" id="nameError"></span>
-    </label>
-
-    <label>
-      Age:
-      <input type="number" id="studentAge" placeholder="Enter age">
-      <span class="error" id="ageError"></span>
-    </label>
-
-    <br><br>
-    <button type="submit">Register</button>
-  </form>
-
-  <p id="successMessage" style="color: green;"></p>
-
-  <script>
-   
-  </script>
 
 </body>
 </html>
